@@ -30,6 +30,13 @@ EDA was conducted to understand the distribution and relationships between diffe
 
 We implemented and evaluated various machine learning models. The models were trained on the preprocessed data and evaluated using metrics such as accuracy, precision, recall, F1 score, and ROC AUC.
 
+We trained following machine learning models
+- Decision Tree
+- Logistic Regression
+- Random Forest
+- Multi-Layer Perceptron
+- K Nearest Neighbour
+
 ## Evaluation
 
 We performed comprehensive evaluation on the models, including:
